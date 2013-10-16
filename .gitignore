@@ -1,0 +1,14 @@
+*.pyc
+.DS_store
+*.psv
+*.iml
+*.pickle
+pickles
+*.sqlite
+*.sqlite
+*.gz
+*.swo
+*.swp
+.idea
+*.csv
+*.db
