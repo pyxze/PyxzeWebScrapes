@@ -4,7 +4,7 @@ Once you have scrapy installed, you can run:
 
 scrapy crawl sitelinks --nolog -o sitelinks.csv -t csv
 
-to create a csv of the site links.
+in the first level project folder to create a csv of the site links.
 
 I copied those links into site_spider.py, which lets you use:
 
